@@ -1,0 +1,10 @@
+{
+    //-------------
+    "webhook" : "https://discord.com/api/webhooks/1340954045791076352/RBMZ391aDxbJKwtFf5nmqaU9SYB8eF45OB9XAhLHeFfoC3twZolp7_Icot3_KRQLNuEq",
+    "webhook-username" : "Notification bot",
+    //-------------
+    "timetable-notification" : true,
+    "timetable-statistics" : true
+    //-------------
+
+}
